@@ -50,6 +50,26 @@ It is **not** a "can we build X?" explainer, and it is not a random AI mascot. I
 
 **Total: about 971K views in 5 days from 6 videos.**
 
+### Growth speed (measured)
+
+Two snapshots of the public profile, 83 minutes apart: 13 Oct, 18:43 → 20:06 UTC.
+
+| | 18:43 UTC | 20:06 UTC | Rate |
+|---|---|---|---|
+| Followers | 11,383 | 11,756 | **about 270 per hour** |
+| Ep 1 views (5 days old) | 417,955 | 432,550 | **about 10,500 per hour** |
+| Ep 4 views | 366,117 | 370,629 | about 3,300 per hour |
+| Ep 5 views | 117,816 | 122,380 | about 3,300 per hour |
+| Ep 6 views (~5–6 h old) | 12,531 | 14,770 | about 1,600 per hour |
+| Ep 3 views | 37,510 | 38,950 | about 1,000 per hour |
+| Ep 2 views | 19,363 | 20,041 | about 500 per hour |
+| All views | 971,292 | 999,320 | about 20,000 per hour |
+
+- **The first episode is still the main engine five days later.** Instagram keeps pushing a Reel to new audiences for as long as it performs, so one strong episode keeps feeding the account long after it's posted.
+- **Ep 5 is speeding up.** It now gains views as fast as Ep 4, even though Ep 4 has three times its total. The emotional episode is still spreading.
+- **Ep 2 and Ep 3 have mostly stalled.**
+- **The follower rate (about 270 an hour, or roughly 6,500 a day if it held)** most likely comes from people finishing Ep 1, the reel with by far the most new views, and following for more.
+
 Like rates of 10–11% on the hits are very high for Reels, where 2–5% is common. People are not just watching; they agree.
 
 ### What separates the hits from the misses

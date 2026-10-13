@@ -14,6 +14,7 @@ All six reels were downloaded and analysed on 13 Oct 2026: frames, shots, colour
   - 6 reels in 6 days and **11,383 followers**
   - **971K total views**
   - two hits of **418K** and **366K**, with 10–11% like rates
+  - still gaining **about 270 followers and 20,000 views an hour**, measured over 83 minutes that evening; Ep 1 alone brings about 10,500 views an hour
 - **The formula:**
   - 45–57 s
   - about 22 lines of about 4 words each, with a cut on every line
