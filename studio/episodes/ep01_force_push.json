@@ -1,0 +1,36 @@
+{
+  "title": "Less angry",
+  "mood": "dusk",
+  "voices": {
+    "her": {"voice": "af_heart", "lang": "a", "speed": 0.9},
+    "claude": {"voice": "am_michael", "lang": "a", "speed": 0.92}
+  },
+  "lines": [
+    {"who": "her", "shot": "CU", "text": "Claude. Make this message less angry."},
+    {"who": "claude", "shot": "OTS", "text": "Of course. Here's a calmer version."},
+    {"who": "her", "shot": "CU", "text": "...You added a summary. And three headers."},
+    {"who": "claude", "shot": "OTS", "text": "For clarity."},
+    {"who": "her", "shot": "CU", "text": "He force-pushed to main. My branch is gone."},
+    {"who": "claude", "shot": "OTS", "text": "Version two. Now with gratitude."},
+    {"who": "her", "shot": "CU", "text": "Gratitude for what?"},
+    {"who": "claude", "shot": "OTS", "text": "The learning opportunity."},
+    {"who": "her", "shot": "CU", "text": "...No."},
+    {"who": "claude", "shot": "OTS", "text": "You're absolutely right. Version five."},
+    {"who": "her", "shot": "CU", "text": "...There's a smiley."},
+    {"who": "claude", "shot": "OTS", "text": "It's a small smiley."},
+    {"who": "her", "shot": "CU", "text": "Remove it."},
+    {"who": "claude", "shot": "WIDE", "text": "Version eleven."},
+    {"who": "her", "shot": "CU", "text": "...It just says \"Hi.\""},
+    {"who": "claude", "shot": "OTS", "text": "Very calm. Zero exclamation marks."},
+    {"who": "her", "shot": "CU", "text": "He'll think I'm fine."},
+    {"who": "claude", "shot": "OTS", "text": "Are you?"},
+    {"who": "her", "shot": "CU", "text": "...That branch was three weeks of work."},
+    {"who": "claude", "shot": "OTS", "text": "Then you're not angry. You're proud of it."},
+    {"who": "her", "shot": "CU", "text": "...Yeah."},
+    {"who": "claude", "shot": "OTS", "text": "Version twelve. \"That was three weeks of my work. Please don't force-push to main.\""},
+    {"who": "her", "shot": "CU", "text": "...Send that."},
+    {"who": "claude", "shot": "WIDE", "text": "Sent. Should I also write a summary of—"},
+    {"who": "her", "shot": "WIDE", "text": "No."},
+    {"who": "claude", "shot": "WIDE", "text": "...Of course."}
+  ]
+}

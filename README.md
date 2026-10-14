@@ -49,3 +49,5 @@ All six reels were downloaded and analysed on 13 Oct 2026: frames, shots, colour
 | [03 · Your playbook](analysis/03-replication-playbook.md) | Positioning, cast design, episode formula, writing prompt, 30 ideas, launch plan, risks |
 | [04 · Production stack](analysis/04-production-stack.md) | Step by step with Google Flow (Omni), ChatGPT Images, ElevenLabs and CapCut/Edits, plus the Blender route |
 | [05 · Growth mechanics](analysis/05-growth-mechanics.md) | How Reels push new accounts in 2026, rules that kill reach, comparable AI accounts |
+| [06 · Agent Morphy](analysis/06-agent-morphy.md) | The second account in this format: a builder plus AI characters on top of his own app, and how the shorts sell the product |
+| [`studio/`](studio/) | Our own 3D production pipeline (Blender + free voices): build the set, render pose plates, voice the script, assemble the episode |
