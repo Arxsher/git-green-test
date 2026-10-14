@@ -2,7 +2,36 @@
 
 Analysed from 4 videos (3 shorts and 1 song recap) sent on 14 Oct 2026, plus the creator's website.
 
-The Instagram profile couldn't be read: Instagram rate-limited this server. Follower numbers below are **the creator's own claims, taken from his song**, not measured.
+Profile and posts measured on 14 Oct 2026, 00:45 UTC. Numbers in the song section are the creator's own claims.
+
+## The profile (measured)
+
+| | |
+|---|---|
+| Followers | **19,116** (following 11) |
+| Posts | 24 Reels, often two a day |
+| Bio | *"Vibe coding is the trap. Distribution is the way out."* |
+| Link in bio | his Discord |
+
+**Top reels (last 12 posts)**
+
+| Posted | Views | Likes | Comments |
+|---|---|---|---|
+| 7 Oct | **604,884** | 56,646 | 543 |
+| 3 Oct | 242,907 | 28,682 | 229 |
+| 8 Oct | 131,320 | 13,445 | 129 |
+| 10 Oct | 57,471 | 6,823 | 182 |
+
+The other recent posts sit at about 2K–33K views.
+
+**The caption is the ad.** Every reel carries the same product pitch, whatever the episode:
+> *"Morphy is an agentic super app nobody uses. Yet. It's one infinite canvas where Claude, Codex and Grok agents work side by side… I made it for myself and now I can't work without it. Comment or DM "Morphy" for early access. #claude #ai #new"*
+
+- **It's a comment-to-DM funnel.** People comment the keyword and get the link by automated DM. That converts viewers into users, and it piles up comments (543 on the top reel).
+- **It goes against Instagram's own guidance**, which says "comment [word]" calls to action aren't recommended. He gets reach anyway.
+- **Treat it as a trade-off**, worth it once there's something real to send people to.
+
+The song post's caption confirms the funnel: *"10 days ago I posted one video of an app nobody used. Since then: 4.7M views, 1,000+ builders in our Discord, and Morphy shipped on Windows, Mac and Linux. So I asked Claude to turn it into a song… Free for life closes tonight. Comment "Morphy" and I'll send you the link."
 
 ---
 
